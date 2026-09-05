@@ -36,4 +36,4 @@ DORES ATUAIS
 	Imprevisibilidade e atrasos constantes
 	Superlotação e desconforto na viagem
 	Informações de chegada e duração da viagem não confiáveis
-	Horas de vida perdida no trânsito
+	Horas de vida perdida no trânsito.
