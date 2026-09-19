@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="PROJETO CONCEITUAL DER MOBIALFA" id="AA557A9A-164C-9CE8-BA43-B5C85D3E0D62" version="3.5">
+<createdBy>medei</createdBy>
+<createdTime>2026-09-17 21:23:04 UTC</createdTime>
+<ownerDesignName>PROJETO CONCEITUAL DER MOBIALFA</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>AA557A9A-164C-9CE8-BA43-B5C85D3E0D62</designId>
+</OSDM_Design>
